@@ -4,6 +4,6 @@ using UnityEngine;
 
 public class DI 
 {
-    public static DI dI{get;} = new DI();
+    public static DI di{get;} = new DI();
     
 }
